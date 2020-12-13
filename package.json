@@ -6,10 +6,19 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.5.0",
+    "axios": "^0.21.0",
+    "firebase": "^8.1.1",
+    "formik": "^2.2.5",
     "react": "^17.0.1",
+    "react-avatar-editor": "^11.0.13",
+    "react-chat-engine": "^1.4.2",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.1",
+    "web-vitals": "^0.2.4",
+    "yup": "^0.31.1"
   },
   "scripts": {
     "start": "react-scripts start",
