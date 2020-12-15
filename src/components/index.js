@@ -10,3 +10,4 @@ export * from './ChatAvatar';
 export * from './ChatToolbar';
 export * from './SearchUsers';
 export * from './MessageList';
+export * from './ImageUpload';
