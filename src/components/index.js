@@ -6,6 +6,7 @@ export * from './ChatList';
 export * from './LeftRail';
 export * from './ChatInput';
 export * from './FormField';
+export * from './RailHeader';
 export * from './ChatAvatar';
 export * from './ChatToolbar';
 export * from './SearchUsers';
