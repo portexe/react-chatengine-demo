@@ -1,5 +1,6 @@
-import { useChat } from 'context/ChatContext';
 import { useEffect } from 'react';
+import { useChat } from 'context/ChatContext';
+import { LeftRail } from 'components/LeftRail/LeftRail';
 import { getChats, ChatEngine } from 'react-chat-engine';
 
 export const Chat = () => {
@@ -24,6 +25,7 @@ export const Chat = () => {
       )}
 
       <div className="chat-container">
+        <LeftRail />
         <div className="current-chat">
           {selectedChat ? (
             <></>
