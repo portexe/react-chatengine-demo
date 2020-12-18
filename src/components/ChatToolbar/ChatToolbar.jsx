@@ -22,7 +22,7 @@ export const ChatToolbar = () => {
           <Icon
             color="grey"
             name="user plus"
-            onMouseDown={() => setSearching(!searching)}
+            onClick={() => setSearching(true)}
           />
         </div>
       </div>
