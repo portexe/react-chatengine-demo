@@ -1,4 +1,4 @@
-This code is for [This Tutorial](https://www.youtube.com/channel/UCjGQyJCSU_VVMTu5nigonqg)
+This code is for [This Tutorial](https://www.youtube.com/watch?v=GS_KVcHPCLE&list=PL2pKsGhl_rg-I973wXXcd1wIPfVWRiPF-)
 
 If this tutorial benefitted you, please consider subscribing to [my YouTube channel](https://www.youtube.com/channel/UCjGQyJCSU_VVMTu5nigonqg) or following me [on Twitter](https://twitter.com/portexe)
 
