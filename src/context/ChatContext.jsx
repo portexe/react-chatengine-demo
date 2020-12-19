@@ -45,7 +45,7 @@ export const ChatProvider = ({ children, authUser }) => {
             userSecret: authUser.uid,
             avatar: snap.data().avatar,
             userName: snap.data().userName,
-            projectID: '0c123084-9157-4170-986a-fb83920a0884',
+            projectID: 'edc224a1-feb2-4032-8894-32afb2ec31ba',
           });
         });
     }
