@@ -27,7 +27,7 @@ export const Signup = () => {
             fb.firestore
               .collection('chatUsers')
               .doc(res.user.uid)
-              .set({ userName, avatar: '' });
+              .set({ userName, avatar: null });
           });
         } else {
           setServerError(
